@@ -1,8 +1,8 @@
 /* CSS variables — semánticos */
 :root {
   --text-info: #004fbd;
-  --text-link: #004fbd;
-  --text-brand: #004fbd;
+  --text-link: #97bfff;
+  --text-brand: #002664;
   --text-error: #a80017;
   --text-muted: #6f6f78;
   --text-default: #16161d;
