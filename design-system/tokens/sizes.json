@@ -1,0 +1,98 @@
+{
+  "size-none": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "size-5xs": {
+    "$type": "dimension",
+    "$value": "1px"
+  },
+  "size-4xs": {
+    "$type": "dimension",
+    "$value": "2px"
+  },
+  "size-3xs": {
+    "$type": "dimension",
+    "$value": "3px"
+  },
+  "size-2xs": {
+    "$type": "dimension",
+    "$value": "4px"
+  },
+  "size-xs": {
+    "$type": "dimension",
+    "$value": "6px"
+  },
+  "size-sm": {
+    "$type": "dimension",
+    "$value": "8px"
+  },
+  "size-md": {
+    "$type": "dimension",
+    "$value": "10px"
+  },
+  "size-lg": {
+    "$type": "dimension",
+    "$value": "12px"
+  },
+  "size-xl": {
+    "$type": "dimension",
+    "$value": "16px"
+  },
+  "size-2xl": {
+    "$type": "dimension",
+    "$value": "20px"
+  },
+  "size-3xl": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "size-4xl": {
+    "$type": "dimension",
+    "$value": "32px"
+  },
+  "size-5xl": {
+    "$type": "dimension",
+    "$value": "48px"
+  },
+  "size-6xl": {
+    "$type": "dimension",
+    "$value": "64px"
+  },
+  "size-7xl": {
+    "$type": "dimension",
+    "$value": "80px"
+  },
+  "size-8xl": {
+    "$type": "dimension",
+    "$value": "96px"
+  },
+  "size-9xl": {
+    "$type": "dimension",
+    "$value": "128px"
+  },
+  "size-10xl": {
+    "$type": "dimension",
+    "$value": "160px"
+  },
+  "size-11xl": {
+    "$type": "dimension",
+    "$value": "192px"
+  },
+  "size-12xl": {
+    "$type": "dimension",
+    "$value": "256px"
+  },
+  "size-13xl": {
+    "$type": "dimension",
+    "$value": "320px"
+  },
+  "size-14xl": {
+    "$type": "dimension",
+    "$value": "384px"
+  },
+  "size-15xl": {
+    "$type": "dimension",
+    "$value": "448px"
+  }
+}
