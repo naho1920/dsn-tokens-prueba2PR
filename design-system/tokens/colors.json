@@ -2,7 +2,7 @@
   "claro": {
     "text-info": {
       "$type": "color",
-      "$value": "#004fbd"
+      "$value": "#002664"
     },
     "text-link": {
       "$type": "color",
