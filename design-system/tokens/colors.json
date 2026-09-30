@@ -6,11 +6,11 @@
     },
     "text-link": {
       "$type": "color",
-      "$value": "#004fbd"
+      "$value": "#97bfff"
     },
     "text-brand": {
       "$type": "color",
-      "$value": "#004fbd"
+      "$value": "#002664"
     },
     "text-error": {
       "$type": "color",
