@@ -1,0 +1,26 @@
+:root {
+  --size-none: 0px;
+  --size-5xs: 1px;
+  --size-4xs: 2px;
+  --size-3xs: 3px;
+  --size-2xs: 4px;
+  --size-xs: 6px;
+  --size-sm: 8px;
+  --size-md: 10px;
+  --size-lg: 12px;
+  --size-xl: 16px;
+  --size-2xl: 20px;
+  --size-3xl: 24px;
+  --size-4xl: 32px;
+  --size-5xl: 48px;
+  --size-6xl: 64px;
+  --size-7xl: 80px;
+  --size-8xl: 96px;
+  --size-9xl: 128px;
+  --size-10xl: 160px;
+  --size-11xl: 192px;
+  --size-12xl: 256px;
+  --size-13xl: 320px;
+  --size-14xl: 384px;
+  --size-15xl: 448px;
+}

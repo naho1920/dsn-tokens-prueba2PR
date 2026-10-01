@@ -1,0 +1,26 @@
+{
+  "z-index-10": {
+    "$type": "number",
+    "$value": 10
+  },
+  "z-index-20": {
+    "$type": "number",
+    "$value": 20
+  },
+  "z-index-30": {
+    "$type": "number",
+    "$value": 30
+  },
+  "z-index-40": {
+    "$type": "number",
+    "$value": 40
+  },
+  "z-index-50": {
+    "$type": "number",
+    "$value": 50
+  },
+  "z-index-9999": {
+    "$type": "number",
+    "$value": 9999
+  }
+}

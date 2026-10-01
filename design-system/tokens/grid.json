@@ -1,0 +1,66 @@
+{
+  "grid-sm-breakpoint": {
+    "$type": "dimension",
+    "$value": "640px"
+  },
+  "grid-sm-columns": {
+    "$type": "number",
+    "$value": 4
+  },
+  "grid-sm-gutter": {
+    "$type": "dimension",
+    "$value": "12px"
+  },
+  "grid-sm-margin": {
+    "$type": "dimension",
+    "$value": "12px"
+  },
+  "grid-md-breakpoint": {
+    "$type": "dimension",
+    "$value": "768px"
+  },
+  "grid-md-columns": {
+    "$type": "number",
+    "$value": 8
+  },
+  "grid-md-gutter": {
+    "$type": "dimension",
+    "$value": "16px"
+  },
+  "grid-md-margin": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "grid-lg-breakpoint": {
+    "$type": "dimension",
+    "$value": "1024px"
+  },
+  "grid-lg-columns": {
+    "$type": "number",
+    "$value": 12
+  },
+  "grid-lg-gutter": {
+    "$type": "dimension",
+    "$value": "20px"
+  },
+  "grid-lg-margin": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "grid-xl-breakpoint": {
+    "$type": "dimension",
+    "$value": "1280px"
+  },
+  "grid-xl-columns": {
+    "$type": "number",
+    "$value": 12
+  },
+  "grid-xl-gutter": {
+    "$type": "dimension",
+    "$value": "20px"
+  },
+  "grid-xl-margin": {
+    "$type": "dimension",
+    "$value": "32px"
+  }
+}

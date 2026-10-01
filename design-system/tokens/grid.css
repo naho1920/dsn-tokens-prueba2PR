@@ -1,0 +1,18 @@
+:root {
+  --grid-sm-breakpoint: 640px;
+  --grid-sm-columns: 4;
+  --grid-sm-gutter: 12px;
+  --grid-sm-margin: 12px;
+  --grid-md-breakpoint: 768px;
+  --grid-md-columns: 8;
+  --grid-md-gutter: 16px;
+  --grid-md-margin: 24px;
+  --grid-lg-breakpoint: 1024px;
+  --grid-lg-columns: 12;
+  --grid-lg-gutter: 20px;
+  --grid-lg-margin: 24px;
+  --grid-xl-breakpoint: 1280px;
+  --grid-xl-columns: 12;
+  --grid-xl-gutter: 20px;
+  --grid-xl-margin: 32px;
+}
