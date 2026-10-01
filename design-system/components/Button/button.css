@@ -1,32 +1,32 @@
 /* Button — generado por DSN desde el preview del componente. */
 
 :root {
-  --button-bg: #2269db;
-  --button-text: #f0f5ff;
-  --button-border: #2269db;
-  --button-radius: 12px;
-  --button-padding-x: 10px;
-  --button-padding-y: 8px;
-  --button-gap: 1px;
+  --button-bg: var(--surface-accent, #2269db);
+  --button-text: var(--content-inverse, #f0f5ff);
+  --button-border: var(--border-info, #2269db);
+  --button-radius: var(--radius-control, 12px);
+  --button-padding-x: var(--spacing-md, 10px);
+  --button-padding-y: var(--spacing-sm, 8px);
+  --button-gap: var(--spacing-5xs, 1px);
   --button-typography-font-family: Inter;
   --button-typography-font-size: 13px;
   --button-typography-font-weight: 600;
   --button-typography-line-height: 1.25;
   --button-typography-letter-spacing: 0.01em;
-  --button-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
-  --button-focus-ring: #2269db;
+  --button-shadow: var(--shadow-raised, 0px 1px 2px 0px rgba(0, 0, 0, 0.05));
+  --button-focus-ring: var(--border-focus, #2269db);
 }
 
 [data-theme="dark"] {
-  --button-bg: #6aa2ff;
-  --button-text: #03050e;
-  --button-border: #6aa2ff;
-  --button-radius: 12px;
-  --button-padding-x: 10px;
-  --button-padding-y: 8px;
-  --button-gap: 1px;
-  --button-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
-  --button-focus-ring: #6aa2ff;
+  --button-bg: var(--surface-accent, #6aa2ff);
+  --button-text: var(--content-inverse, #03050e);
+  --button-border: var(--border-info, #6aa2ff);
+  --button-radius: var(--radius-control, 12px);
+  --button-padding-x: var(--spacing-md, 10px);
+  --button-padding-y: var(--spacing-sm, 8px);
+  --button-gap: var(--spacing-5xs, 1px);
+  --button-shadow: var(--shadow-raised, 0px 1px 2px 0px rgba(0, 0, 0, 0.05));
+  --button-focus-ring: var(--border-focus, #6aa2ff);
 }
 
 .button {
@@ -58,15 +58,15 @@
 }
 
 .button[data-size="sm"] {
-  --button-padding-x: 8px;
-  --button-padding-y: 6px;
-  --button-gap: 0px;
+  --button-padding-x: var(--spacing-sm, 8px);
+  --button-padding-y: var(--spacing-xs, 6px);
+  --button-gap: var(--spacing-none, 0px);
 }
 
 .button[data-size="lg"] {
-  --button-padding-x: 12px;
-  --button-padding-y: 10px;
-  --button-gap: 2px;
+  --button-padding-x: var(--spacing-lg, 12px);
+  --button-padding-y: var(--spacing-md, 10px);
+  --button-gap: var(--spacing-4xs, 2px);
 }
 
 .button[data-variant="outline"] {

@@ -26,5 +26,17 @@
   "shadow-inner": {
     "$type": "shadow",
     "$value": "inset 0px 2px 4px 0px rgba(0,0,0,0.06)"
+  },
+  "shadow-raised": {
+    "$type": "shadow",
+    "$value": "{shadow-sm}"
+  },
+  "shadow-overlay": {
+    "$type": "shadow",
+    "$value": "{shadow-md}"
+  },
+  "shadow-modal": {
+    "$type": "shadow",
+    "$value": "{shadow-xl}"
   }
 }
