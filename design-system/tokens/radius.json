@@ -34,5 +34,21 @@
   "radius-full": {
     "$type": "dimension",
     "$value": "9999px"
+  },
+  "radius-control": {
+    "$type": "dimension",
+    "$value": "{radius-lg}"
+  },
+  "radius-control-small": {
+    "$type": "dimension",
+    "$value": "{radius-md}"
+  },
+  "radius-container": {
+    "$type": "dimension",
+    "$value": "{radius-lg}"
+  },
+  "radius-pill": {
+    "$type": "dimension",
+    "$value": "{radius-full}"
   }
 }

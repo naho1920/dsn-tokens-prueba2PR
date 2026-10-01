@@ -8,4 +8,10 @@
   --radius-2xl: 24px;
   --radius-3xl: 32px;
   --radius-full: 9999px;
+
+  /* Semánticos */
+  --radius-control: var(--radius-lg);
+  --radius-control-small: var(--radius-md);
+  --radius-container: var(--radius-lg);
+  --radius-pill: var(--radius-full);
 }
