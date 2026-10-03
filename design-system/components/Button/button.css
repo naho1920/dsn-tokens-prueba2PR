@@ -29,6 +29,14 @@
   --button-focus-ring: var(--border-focus, #6aa2ff);
 }
 
+.button .button__leading {
+  display: inline-flex;
+}
+
+.button .button__trailing {
+  display: inline-flex;
+}
+
 .button {
   margin: 0;
   border: 0 solid;
