@@ -18,7 +18,7 @@ export type ButtonProps = {
 
 export function Button({ size = "md", variant = "solid", icon = "none", label = "Button", disabled = false }: ButtonProps) {
   return (
-    <button className="button" data-size={size} data-variant={variant} data-icon={icon} disabled={disabled} type="button">
+    <button className="button" data-size={size} data-variant={variant} data-icon={icon} disabled={disabled} aria-label={icon === "only" ? label : undefined} type="button">
       {(icon !== "none" && icon !== "trailing") && (
         <span className="button__leading">
           <CheckIcon size={ICON_SIZE[size]} />
