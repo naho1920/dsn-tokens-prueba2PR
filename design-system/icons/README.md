@@ -78,3 +78,7 @@ import { ChevronDownIcon } from "./icons/react";
 - `BellIcon` · `svg/bell.svg`
 - `MailIcon` · `svg/mail.svg`
 - `LogoutIcon` · `svg/logout.svg`
+
+## Importados
+
+- `CheckmarkBadge04Icon` · `svg/checkmark-badge-04.svg`
