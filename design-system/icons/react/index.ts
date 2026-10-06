@@ -44,4 +44,5 @@ export { UsersIcon } from "./UsersIcon";
 export { BellIcon } from "./BellIcon";
 export { MailIcon } from "./MailIcon";
 export { LogoutIcon } from "./LogoutIcon";
+export { CheckmarkBadge04Icon } from "./CheckmarkBadge04Icon";
 export type { IconProps } from "./types";
